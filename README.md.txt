@@ -1,1 +1,0 @@
-Jogo de pedra, paple e tesoura feito no Android Studio Versão 3.3 com Java.
